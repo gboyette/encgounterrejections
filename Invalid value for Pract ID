@@ -1,0 +1,4 @@
+check for pract id in the MBR table file
+check for pract id in the enc data file
+if pract id is not in the MBR table file send email to Medipac Analyst
+if pract id is not in the enc data file send email to Medipac Analyst
